@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for academic research:
 3. **VSCodium** — com.vscodium.codium
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for academic research:
+
+1. **FreeCAD** — design mechanical parts (org.freecadweb.FreeCAD)
+2. **OpenSCAD** — model parametric 3D parts in code (org.openscad.OpenSCAD)
+3. **KiCad** — design circuits and PCBs (org.kicad.KiCad)
+4. **Arduino IDE** — write and upload microcontroller sketches (cc.arduino.IDE2)
+5. **Blender** — create 3D assets and animations (org.blender.Blender)
+6. **PrusaSlicer** — prepare models for 3D printing (com.prusa3d.PrusaSlicer)
+7. **DB Browser for SQLite** — inspect SQLite databases (org.sqlitebrowser.sqlitebrowser)
+8. **Wireshark** — inspect network traffic (org.wireshark.Wireshark)
+9. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+10. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
