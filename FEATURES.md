@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for academic research. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **QGIS** (org.qgis.qgis) — Create and analyze geographic information system projects.
+2. **GNOME Maps** (org.gnome.Maps) — Look up places and routes using online map data.
+3. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.
+4. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
+5. **LabPlot** (org.kde.labplot) — Plot and analyze data imported from spreadsheets or research files.
+6. **KBibTeX** (org.kde.kbibtex) — Edit BibTeX references for academic writing.
+7. **Papers** (org.gnome.Papers) — Read and review PDF documents.
+8. **Weather** (org.gnome.Weather) — Check local forecast information and plan outdoor work.
+9. **Calendar** (org.gnome.Calendar) — Plan events, appointments, and work sessions.
+10. **KPhotoAlbum** (org.kde.kphotoalbum) — Tag and organize large photo collections.
+11. **Tellico** (org.kde.tellico) — Catalog books, media, games, and other collections.
+12. **PDF Arranger** (com.github.jeromerobert.pdfarranger) — Reorder, rotate, split, and merge PDF pages.
+13. **LocalSend** (org.localsend.localsend_app) — Transfer files directly between nearby devices on your local network.
+14. **Joplin** (net.cozic.joplin_desktop) — Organize notes and checklists in notebooks.
+15. **KBackup** (org.kde.kbackup) — Create user-selected backup archives of files and folders.

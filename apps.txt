@@ -54,3 +54,20 @@ org.kde.kstars
 org.kde.kgeography
 com.github.flxzt.rnote
 org.kde.konsole
+
+# Fifteen further purpose-specific applications
+org.qgis.qgis
+org.gnome.Maps
+org.kde.kgeotag
+org.kde.kst
+org.kde.labplot
+org.kde.kbibtex
+org.gnome.Papers
+org.gnome.Weather
+org.gnome.Calendar
+org.kde.kphotoalbum
+org.kde.tellico
+com.github.jeromerobert.pdfarranger
+org.localsend.localsend_app
+net.cozic.joplin_desktop
+org.kde.kbackup
