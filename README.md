@@ -24,3 +24,11 @@ The `citewise.svg` wallpaper is original. Citewise OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for academic research.
 
+
+The installer also includes three purpose-specific applications: **Anki, LibreOffice, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Anki, LibreOffice, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Anki, LibreOffice, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Anki, LibreOffice, VSCodium**. See [FEATURES.md](FEATURES.md).
